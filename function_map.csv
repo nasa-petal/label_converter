@@ -1,0 +1,88 @@
+Level I,Level II,Level III
+Attach,Attach permanently,
+Attach,Attach temporarily,
+Move,,Move through/on liquids
+Move,,Move through/on solids
+Move,,Move through gases
+Protect from harm,Protect from living threats,Protect from animals
+Protect from harm,Protect from living threats,Protect from plants
+Protect from harm,Protect from living threats,Protect from fungi
+Protect from harm,Protect from living threats,Protect from microbes
+Protect from harm,Protect from non-living threats,Protect from solids
+Protect from harm,Protect from non-living threats,Protect from excess liquids
+Protect from harm,Protect from non-living threats,Protect from loss of liquids
+Protect from harm,Protect from non-living threats,Protect from gases
+Protect from harm,Protect from non-living threats,Protect from wind
+Protect from harm,Protect from non-living threats,Protect from temperature
+Protect from harm,Protect from non-living threats,Protect from fire
+Protect from harm,Protect from non-living threats,Protect from ice
+Protect from harm,Protect from non-living threats,Protect from light
+Protect from harm,Protect from non-living threats,Protect from chemicals
+Protect from harm,Protect from non-living threats,Protect from radiation
+Maintain structural integrity,Prevent structural failure,Prevent buckling
+Maintain structural integrity,Prevent structural failure,Prevent deformation
+Maintain structural integrity,Prevent structural failure,Prevent fatigue
+Maintain structural integrity,Prevent structural failure,Prevent fracture/rupture
+Maintain structural integrity,Prevent structural failure,Control erosion
+Maintain structural integrity,Manage structural forces,Manage shear
+Maintain structural integrity,Manage structural forces,Manage stress/strain
+Maintain structural integrity,Manage structural forces,Manage impact
+Maintain structural integrity,Manage structural forces,Manage drag/turbulence
+Maintain structural integrity,Manage structural forces,Manage wear
+Maintain ecological community,Individual benefit,Regulate reproduction or growth
+Maintain ecological community,Individual benefit,Self-replicate
+Maintain ecological community,Individual benefit,Coordinate by self-organization
+Maintain ecological community,Group benefit,Cooperate within or between species
+Maintain ecological community,Group benefit,Compete within or between species
+Maintain ecological community,Group benefit,Manage environmental disturbance in a community
+Maintain ecological community,Group benefit,Manage populations/pests/diseases
+Maintain ecological community,Group benefit,Maintain biodiversity
+Maintain ecological community,Chemically assemble,Chemically asemble inorganic compounds
+Chemically modify,Chemically assemble,Chemically asemble organic compounds
+Chemically modify,Chemically assemble,Self-assemble
+Chemically modify,Chemically break down,Chemically break down inorganic compounds
+Chemically modify,Chemically break down,Chemically break down organic compounds
+Chemically modify,Change energy state,Modify/convert electrical energy
+Chemically modify,Change energy state,Modify/convert magnetic energy
+Chemically modify,Change energy state,Modify/convert chemical energy
+Chemically modify,Change energy state,Modify/convert mechanical energy
+Chemically modify,Change energy state,Modify/convert thermal energy
+Chemically modify,Change energy state,Modify/convert light energy
+Physically assemble/disassemble,Physically assemble structure,
+Physically assemble/disassemble,Break down structure,
+Physically assemble/disassemble,Optimize shape/materials,
+Process information,Send signals,Send light signals in the visible spectrum
+Process information,Send signals,Send light signals in the non-visible spectrum
+Process information,Send signals,Send sound signals
+Process information,Send signals,Send tactile signals
+Process information,Send signals,Send chemical signals 
+Process information,Send signals,Send vibratory signals
+Process information,Send signals,Send electrical/magnetic signals
+Process information,Process signals,Differentiate signal from noise
+Process information,Process signals,Convert signals
+Process information,Process signals,Respond to signals
+Process information,Sense signals/environmental cues,Sense light in the visible spectrum
+Process information,Sense signals/environmental cues,Sense light in the non-visible spectrum
+Process information,Sense signals/environmental cues,Sense electricity/magnetism
+Process information,Sense signals/environmental cues,Sense disease in a living system
+Process information,Sense signals/environmental cues,Sense touch and mechanical forces
+Process information,Sense signals/environmental cues,Sense chemicals 
+Process information,Sense signals/environmental cues,Sense atmospheric conditions
+Process information,Sense signals/environmental cues,Sense sound and other vibrations
+Process information,Sense signals/environmental cues,Sense temperature cues
+Process information,Sense signals/environmental cues,Sense motion
+Process information,Sense signals/environmental cues,Sense spatial awareness/balance/orientation
+Process information,Sense signals/environmental cues,Sense shape and pattern in a living system
+Process resources,Store resources,Store solids
+Process resources,Store resources,Store liquids
+Process resources,Store resources,Store gases
+Process resources,Store resources,Store energy
+Process resources,Distribute resources,Distribute solids
+Process resources,Distribute resources,Distribute liquids
+Process resources,Distribute resources,Distribute gases
+Process resources,Distribute resources,Distribute energy
+Process resources,Expel resources,Expel solids
+Process resources,Expel resources,Expel liquids
+Process resources,Expel resources,Expel gases
+Process resources,Detox/purify,
+Change size/color,Change size/shape,
