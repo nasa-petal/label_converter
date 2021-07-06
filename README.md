@@ -17,7 +17,7 @@ Takes in a CSV file with all paper info and returns list of lists of strings (la
 
 - **get_paper_info**
 
-Definition of the PaperInfo object
+PaperInfo class, plus get_paper_info function that retrieves labels of each level
 
 - **labels_to_list**
 
