@@ -39,7 +39,16 @@ for index, row in df_input.iterrows():
     if row['label_level_3']:
         labels_level_3 = ast.literal_eval(row['label_level_3'])
         labels_level_1 = set()
+        if row['label_level_2'] == "":
+            labels_level_2_old = []
+        else:
+            labels_level_2_old = ast.literal_eval(row['label_level_2'])
         labels_level_2 = set()
+        for label_level_2 in labels_level_2_old:
+            if label_level_2 in label_map_2_levels:
+                label_level_1 = label_map_2_levels[label_level_2]
+                labels_level_2.add(label_level_2)
+                labels_level_1.add(label_level_1)
         for label_level_3 in labels_level_3:
             if label_level_3 in label_map_3_levels:
                 label_level_1, label_level_2 = label_map_3_levels[label_level_3]
